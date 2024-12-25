@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tugba\\source\\repos\\Api2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|c:\\users\\tugba\\source\\repos\\api2\\api2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|solutionrelative:api2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|c:\\users\\tugba\\source\\repos\\api2\\api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|solutionrelative:api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|c:\\users\\tugba\\source\\repos\\api2\\api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|solutionrelative:api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|c:\\users\\tugba\\source\\repos\\api2\\api2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|solutionrelative:api2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|c:\\users\\tugba\\source\\repos\\api2\\api2\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|solutionrelative:api2\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|c:\\users\\tugba\\source\\repos\\api2\\api2\\model\\operationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|solutionrelative:api2\\model\\operationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|c:\\users\\tugba\\source\\repos\\api2\\api2\\services\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A14795C-29B9-41EF-A4F5-23D9CB2D4C2F}|Api2\\Api2.csproj|solutionrelative:api2\\services\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\WeatherForecast.cs",
+              "RelativeToolTip": "Api2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:37:09.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\appsettings.Development.json",
+              "RelativeToolTip": "Api2\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T18:36:19.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\appsettings.json",
+              "RelativeDocumentMoniker": "Api2\\appsettings.json",
+              "ToolTip": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\appsettings.json",
+              "RelativeToolTip": "Api2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T18:35:33.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Program.cs",
+              "RelativeDocumentMoniker": "Api2\\Program.cs",
+              "ToolTip": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Program.cs",
+              "RelativeToolTip": "Api2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:09:32.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathController.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Controllers\\MathController.cs",
+              "RelativeDocumentMoniker": "Api2\\Controllers\\MathController.cs",
+              "ToolTip": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Controllers\\MathController.cs",
+              "RelativeToolTip": "Api2\\Controllers\\MathController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:46:54.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MathService.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Services\\MathService.cs",
+              "RelativeDocumentMoniker": "Api2\\Services\\MathService.cs",
+              "ToolTip": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Services\\MathService.cs",
+              "RelativeToolTip": "Api2\\Services\\MathService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:46:05.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Model\\OperationResponse.cs",
+              "RelativeDocumentMoniker": "Api2\\Model\\OperationResponse.cs",
+              "ToolTip": "C:\\Users\\tugba\\source\\repos\\Api2\\Api2\\Model\\OperationResponse.cs",
+              "RelativeToolTip": "Api2\\Model\\OperationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:44:15.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
